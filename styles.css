@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding:0;
+    font-family: sans-serif;
+}
+body{
+    background-image: url(lops.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.whe{
+    flex-wrap: wrap;
+    background-color: blueviolet;
+font-size: 25px;
+justify-content: space-around;
+display: flex;
+padding-top: 20px;
+}
+ul{
+    display: flex;
+    font-size: 20px
+}
+li a{
+    display: flex;
+    text-decoration: none;
+    margin-left: 20px;
+}
+.jnrf{
+    display: flex;
+    justify-content: center;
+    height: 500px;
+}
+.jwg{
+    text-align: center;
+}
+.rff{
+    display: flex;
+    justify-content: center;
+    height: 500px;
+    margin-top: 40px;
+}
+.rer{
+    text-align: center;
+}
+.wjd{
+    display: flex;
+    justify-content: center;
+    height: 500px;
+    margin-top: 40px;
+}
+.hgi{
+    text-align: center;
+
+}
+h1{
+    color: burlywood;
+}
